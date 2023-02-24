@@ -1,0 +1,3 @@
+22-02-2023 01:20:20 INFO  CalcControllerImpl:16 - Application start
+22-02-2023 01:20:26 WARN  javafx:274 - Loading FXML document with JavaFX API of version 19 by JavaFX runtime of version 11
+22-02-2023 01:20:29 INFO  CalcControllerImpl:34 - Application Stop

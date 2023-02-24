@@ -1,0 +1,42 @@
+/* Application wide styles */
+
+.vbox
+{
+    -fx-text-fill: red;
+    -fx-font-family: "SansSerif";
+}
+
+.label {
+    -fx-font-size: 11px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+.text-area{
+    -fx-text-alignment: right;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "SansSerif";
+    -fx-font-weight: bold;
+    -fx-font-size: 9px;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover{
+    -fx-base: #395bae;
+}
+
+/* Component specific styles */
+
+
+.anchor-pane {
+    -fx-background-image: url("../../images/background.jpg");
+    -fx-text-fill: white;
+    -fx-font-family: "SansSerif";
+}
+
+

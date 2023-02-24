@@ -1,0 +1,6 @@
+
+Manifest-Version: 1.0
+Archiver-Version: Student ttanja
+Created-By: Apache Maven 3.3.9
+Built-By: Shool21
+Main-Class: com.school21.ttanja.smartcalc.StockUiApplication
